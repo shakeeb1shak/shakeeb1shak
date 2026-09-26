@@ -3,7 +3,6 @@
 <h3 align="center">🧠 Backend Developer | Python & Django Enthusiast</h3>
 
 🔥 About Me
-TASKPULL-0945FEC60DBC4195
 
 🎯 Backend Engineer (Python / Django / REST APIs)
 
